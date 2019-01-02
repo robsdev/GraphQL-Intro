@@ -1,0 +1,172 @@
+{
+  "jackpots": [
+    {
+      "id": "j1",
+      "name": "Amazing Jackpot",
+      "events": [
+        "e1",
+        "e12",
+        "e7",
+        "e4"
+      ]
+    },
+    {
+      "id": "j2",
+      "name": "Venetian Jackpot",
+      "events": [
+        "e11",
+        "e5",
+        "e6",
+        "e9",
+        "e12"
+      ]
+    },
+    {
+      "id": "j3",
+      "name": "Albania Promo",
+      "events": [
+        "e18",
+        "e3",
+        "e14",
+        "e7"
+      ]
+    },
+    {
+      "id": "j4",
+      "name": "NYE Jackpot",
+      "events": [
+        "e1",
+        "e9",
+        "e18"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "4 OF A KIND G2E",
+      "description": "FOR G2E MACAU DISPLAY",
+      "game": "POKER",
+      "id": "e1"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "FULL HOUSE G2E",
+      "description": "FOR G2E MACAU DISPLAY",
+      "game": "POKER",
+      "id": "e2"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "FLUSH G2E",
+      "description": "FOR G2E MACAU DISPLAY",
+      "game": "POKER",
+      "id": "e3"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "STRAIGHT G2E",
+      "description": "FOR G2E MACAU DISPLAY",
+      "game": "POKER",
+      "id": "e4"
+    },
+    {
+      "gameVariation": "BLACKJACK_BIG_BANG",
+      "name": "Perfect Blackjack",
+      "description": "Perfect Blackjack - A Spades and J Clubs",
+      "game": "BLACKJACK",
+      "id": "e5"
+    },
+    {
+      "gameVariation": "BLACKJACK_BIG_BANG",
+      "name": "Suited Blackjack",
+      "description": "Suited Blackjack - Matching Ace and Jack of Spades, Hearts, or Diamonds",
+      "game": "BLACKJACK",
+      "id": "e6"
+    },
+    {
+      "gameVariation": "BLACKJACK_ROCKETS_TO_RICHES",
+      "name": "AK Suited & AK Suited",
+      "description": "Split Aces -> (AK Suited & AK Suited)",
+      "game": "BLACKJACK",
+      "id": "e7"
+    },
+    {
+      "gameVariation": "BLACKJACK_ROCKETS_TO_RICHES",
+      "name": "AK & AK",
+      "description": "Split Aces -> (AK & AK)",
+      "game": "BLACKJACK",
+      "id": "e8"
+    },
+    {
+      "gameVariation": "BLACKJACK_ROCKETS_TO_RICHES",
+      "name": "21 & 21",
+      "description": "Split Aces -> (21 & 21)",
+      "game": "BLACKJACK",
+      "id": "e9"
+    },
+    {
+      "gameVariation": "BLACKJACK_ROCKETS_TO_RICHES",
+      "name": "21 & X",
+      "description": "Split Aces -> (21 & X)",
+      "game": "BLACKJACK",
+      "id": "e10"
+    },
+    {
+      "gameVariation": "BLACKJACK_ROCKETS_TO_RICHES",
+      "name": "AA",
+      "description": "Two Aces",
+      "game": "BLACKJACK",
+      "id": "e11"
+    },
+    {
+      "gameVariation": "BLACKJACK_ROCKETS_TO_RICHES",
+      "name": "First Card A",
+      "description": "First Card Ace",
+      "game": "BLACKJACK",
+      "id": "e12"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "Royal Flush",
+      "description": "An ace-high straight flush such as Ace,King,Queen,Jack,10 Diamonds is known as a royal flush",
+      "game": "POKER",
+      "id": "e13"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "Straight Flush",
+      "description": "A straight flush is a poker hand that contains cards of sequential rank all of the same suit",
+      "game": "POKER",
+      "id": "e14"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "Four Of A Kind",
+      "description": "Four of a kind, also known as quads, is a poker hand such as 9 Clubs, 9 Spades 9 Diamonds 9 Hearts J Hearts, that contains all four cards of one rank and any other (unmatched) card.",
+      "game": "POKER",
+      "id": "e15"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "Full House",
+      "description": "A full house, also known as a full boat, is a hand such as 3 Clubs 3 Spades 3 Diamonds 6 Spades 6 Hearts, that contains three matching cards of one rank and two matching cards of another rank.",
+      "game": "POKER",
+      "id": "e16"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "Flush",
+      "description": "A flush is a poker hand such as Q Clubs 10 Clubs 7 Clubs 6 Clubs 4 Clubs, where all five cards are of the same suit, but not in sequence.",
+      "game": "POKER",
+      "id": "e17"
+    },
+    {
+      "gameVariation": "POKER_CASINO_RAISEM_PLUS",
+      "name": "Straight",
+      "description": "A straight is a poker hand such as Q Clubs J Spades 10 Spades 9 Hearts 8 Hearts, that contains five cards of sequential rank in at least two different suits.",
+      "game": "POKER",
+      "id": "e18"
+    }
+  ]
+}
