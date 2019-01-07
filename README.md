@@ -2,7 +2,7 @@
 
 **Bonusing Example**
 
-The section provides an interactive environment to explore queries and mutations in GraphQL, 
+This section provides an interactive environment to explore queries and mutations in GraphQL, 
 with a mock Bonusing database and visualisation with Graph*i*QL.
 
 1) Install all dependencies: `npm install`
